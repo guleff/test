@@ -1,0 +1,6 @@
+1.12 beer
+1.2 water
+2.49 fanta
+2.5 juice
+8.33 kola
+18.7 vodka
