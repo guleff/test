@@ -1,0 +1,5 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\IsThirdDigit7\bin\Debug\IsThirdDigit7.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\IsThirdDigit7\obj\Debug\IsThirdDigit7.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\IsThirdDigit7\obj\Debug\IsThirdDigit7.pdb
