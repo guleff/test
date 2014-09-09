@@ -1,0 +1,5 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

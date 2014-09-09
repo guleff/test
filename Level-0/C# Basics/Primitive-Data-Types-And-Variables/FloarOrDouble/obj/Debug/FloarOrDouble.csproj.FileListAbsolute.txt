@@ -1,0 +1,5 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\FloarOrDouble\bin\Debug\FloarOrDouble.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\FloarOrDouble\bin\Debug\FloarOrDouble.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\FloarOrDouble\bin\Debug\FloarOrDouble.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\FloarOrDouble\obj\Debug\FloarOrDouble.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\FloarOrDouble\obj\Debug\FloarOrDouble.pdb

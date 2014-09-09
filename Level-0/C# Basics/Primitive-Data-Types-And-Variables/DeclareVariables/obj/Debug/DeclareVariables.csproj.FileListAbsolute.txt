@@ -1,0 +1,5 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
