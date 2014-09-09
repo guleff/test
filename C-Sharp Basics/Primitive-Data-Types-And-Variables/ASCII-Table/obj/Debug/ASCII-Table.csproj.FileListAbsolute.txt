@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\bin\Debug\ASCII-Table.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\bin\Debug\ASCII-Table.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\bin\Debug\ASCII-Table.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\obj\Debug\ASCII-Table.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\obj\Debug\ASCII-Table.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ASCII-Table\obj\Debug\ASCII-Table.csprojResolveAssemblyReference.cache

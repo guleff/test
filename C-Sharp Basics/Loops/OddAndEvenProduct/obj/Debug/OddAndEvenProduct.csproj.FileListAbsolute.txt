@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache

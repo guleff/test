@@ -1,0 +1,5 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ExchangeVarValues\bin\Debug\ExchangeVarValues.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ExchangeVarValues\bin\Debug\ExchangeVarValues.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ExchangeVarValues\bin\Debug\ExchangeVarValues.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ExchangeVarValues\obj\Debug\ExchangeVarValues.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\ExchangeVarValues\obj\Debug\ExchangeVarValues.pdb

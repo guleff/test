@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
