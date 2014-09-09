@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\varInHexFormat\bin\Debug\varInHexFormat.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\varInHexFormat\bin\Debug\varInHexFormat.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\varInHexFormat\bin\Debug\varInHexFormat.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\varInHexFormat\obj\Debug\varInHexFormat.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\varInHexFormat\obj\Debug\varInHexFormat.pdb

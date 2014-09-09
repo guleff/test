@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\PrimeChecker\bin\Debug\PrimeChecker.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\PrimeChecker\bin\Debug\PrimeChecker.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\PrimeChecker\bin\Debug\PrimeChecker.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\PrimeChecker\obj\Debug\PrimeChecker.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\PrimeChecker\obj\Debug\PrimeChecker.pdb

@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

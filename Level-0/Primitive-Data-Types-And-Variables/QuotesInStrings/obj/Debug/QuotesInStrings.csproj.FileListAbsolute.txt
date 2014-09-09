@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

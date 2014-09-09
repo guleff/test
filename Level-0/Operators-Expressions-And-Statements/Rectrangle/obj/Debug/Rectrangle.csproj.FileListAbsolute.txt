@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\bin\Debug\Rectrangle.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\bin\Debug\Rectrangle.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\bin\Debug\Rectrangle.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\obj\Debug\Rectrangle.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\obj\Debug\Rectrangle.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\Rectrangle\obj\Debug\Rectrangle.pdb

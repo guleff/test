@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\bin\Debug\RemoveNames.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\bin\Debug\RemoveNames.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\bin\Debug\RemoveNames.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\obj\Debug\RemoveNames.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\obj\Debug\RemoveNames.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\RemoveNames\obj\Debug\RemoveNames.pdb

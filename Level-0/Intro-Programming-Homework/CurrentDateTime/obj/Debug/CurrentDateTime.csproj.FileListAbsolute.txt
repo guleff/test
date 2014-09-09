@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

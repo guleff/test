@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\UnicodeChar\bin\Debug\UnicodeChar.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\UnicodeChar\bin\Debug\UnicodeChar.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\UnicodeChar\bin\Debug\UnicodeChar.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\UnicodeChar\obj\Debug\UnicodeChar.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\UnicodeChar\obj\Debug\UnicodeChar.pdb

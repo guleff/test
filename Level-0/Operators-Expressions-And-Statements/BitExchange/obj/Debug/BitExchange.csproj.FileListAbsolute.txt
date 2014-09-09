@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\bin\Debug\BitExchange.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\bin\Debug\BitExchange.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\bin\Debug\BitExchange.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\obj\Debug\BitExchange.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\BitExchange\obj\Debug\BitExchange.pdb
