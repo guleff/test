@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\bin\Debug\TrailingZerosInNFactorial.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\bin\Debug\TrailingZerosInNFactorial.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\bin\Debug\TrailingZerosInNFactorial.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\obj\Debug\TrailingZerosInNFactorial.csprojResolveAssemblyReference.cache
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\obj\Debug\TrailingZerosInNFactorial.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\TrailingZerosInNFactorial\obj\Debug\TrailingZerosInNFactorial.pdb

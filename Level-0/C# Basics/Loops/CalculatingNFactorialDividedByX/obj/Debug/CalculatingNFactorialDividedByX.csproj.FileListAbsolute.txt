@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\bin\Debug\CalculatingNFactorialDividedByX.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\bin\Debug\CalculatingNFactorialDividedByX.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\bin\Debug\CalculatingNFactorialDividedByX.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\obj\Debug\CalculatingNFactorialDividedByX.csprojResolveAssemblyReference.cache
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\obj\Debug\CalculatingNFactorialDividedByX.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\CalculatingNFactorialDividedByX\obj\Debug\CalculatingNFactorialDividedByX.pdb

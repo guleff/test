@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb
