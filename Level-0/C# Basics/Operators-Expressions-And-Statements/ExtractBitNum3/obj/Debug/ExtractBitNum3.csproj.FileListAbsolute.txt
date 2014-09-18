@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\bin\Debug\ExtractBitNum3.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\bin\Debug\ExtractBitNum3.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\bin\Debug\ExtractBitNum3.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\obj\Debug\ExtractBitNum3.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\obj\Debug\ExtractBitNum3.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\ExtractBitNum3\obj\Debug\ExtractBitNum3.pdb

@@ -1,4 +1,0 @@
-﻿function hometown(){
-    alert("Plovdiv");
-
-}

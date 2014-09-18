@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\bin\Debug\Deck52Cards.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\bin\Debug\Deck52Cards.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\bin\Debug\Deck52Cards.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\obj\Debug\Deck52Cards.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\obj\Debug\Deck52Cards.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\Deck52Cards\obj\Debug\Deck52Cards.csprojResolveAssemblyReference.cache

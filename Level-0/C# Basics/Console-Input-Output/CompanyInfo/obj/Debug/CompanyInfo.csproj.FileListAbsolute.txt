@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache

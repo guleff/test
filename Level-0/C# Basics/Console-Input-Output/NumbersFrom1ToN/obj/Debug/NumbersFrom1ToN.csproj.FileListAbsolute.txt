@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

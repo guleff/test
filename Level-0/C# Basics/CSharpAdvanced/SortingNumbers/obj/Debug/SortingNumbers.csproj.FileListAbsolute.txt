@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\bin\Debug\SortingNumbers.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\bin\Debug\SortingNumbers.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\bin\Debug\SortingNumbers.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\obj\Debug\SortingNumbers.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\obj\Debug\SortingNumbers.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\CSharpAdvanced\SortingNumbers\obj\Debug\SortingNumbers.pdb

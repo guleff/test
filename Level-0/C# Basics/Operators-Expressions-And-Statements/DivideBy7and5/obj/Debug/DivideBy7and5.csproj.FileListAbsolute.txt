@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\bin\Debug\DivideBy7and5.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\obj\Debug\DivideBy7and5.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\obj\Debug\DivideBy7and5.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\DivideBy7and5\obj\Debug\DivideBy7and5.csprojResolveAssemblyReference.cache

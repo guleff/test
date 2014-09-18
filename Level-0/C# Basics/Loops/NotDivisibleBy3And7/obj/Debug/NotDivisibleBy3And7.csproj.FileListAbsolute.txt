@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\obj\Debug\NotDivisibleBy3And7.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\obj\Debug\NotDivisibleBy3And7.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Loops\NotDivisibleBy3And7\obj\Debug\NotDivisibleBy3And7.csprojResolveAssemblyReference.cache

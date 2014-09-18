@@ -1,5 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\PlayWithIntDoubleString\obj\Debug\PlayWithIntDoubleString.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\PlayWithIntDoubleString\obj\Debug\PlayWithIntDoubleString.pdb

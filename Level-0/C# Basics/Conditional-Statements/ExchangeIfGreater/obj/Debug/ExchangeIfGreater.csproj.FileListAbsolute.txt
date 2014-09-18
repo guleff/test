@@ -1,6 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache

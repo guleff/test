@@ -1,9 +1,0 @@
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\bin\Debug\Hello-CSharp.exe.config
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\bin\Debug\Hello-CSharp.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\bin\Debug\Hello-CSharp.pdb
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\obj\Debug\Hello-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\obj\Debug\Hello-CSharp.exe
-C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\Hello-CSharp\obj\Debug\Hello-CSharp.pdb
-D:\c# projects\Projects\Intro-Programming-Homework\Hello-CSharp\bin\Debug\Hello-CSharp.exe.config
-D:\c# projects\Projects\Intro-Programming-Homework\Hello-CSharp\obj\Debug\Hello-CSharp.exe
-D:\c# projects\Projects\Intro-Programming-Homework\Hello-CSharp\obj\Debug\Hello-CSharp.pdb
