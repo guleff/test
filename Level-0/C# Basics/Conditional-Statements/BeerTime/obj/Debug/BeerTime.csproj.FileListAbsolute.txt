@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\obj\Debug\BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Conditional-Statements\BeerTime\obj\Debug\BeerTime.pdb

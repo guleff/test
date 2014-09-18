@@ -1,0 +1,6 @@
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\bin\Debug\MoonGravity.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\obj\Debug\MoonGravity.pdb
+C:\Users\kdfsl\Documents\Visual Studio 2012\Projects\Operators-Expressions-And-Statements\MoonGravity\obj\Debug\MoonGravity.csprojResolveAssemblyReference.cache
