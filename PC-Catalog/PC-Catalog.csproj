@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B0369D60-0910-439B-9DD8-1E0F8E25A40A}</ProjectGuid>
+    <ProjectGuid>{ED1FC17E-E79B-403A-9AD3-46F81EC75BCB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LaptopShop</RootNamespace>
-    <AssemblyName>LaptopShop</AssemblyName>
+    <RootNamespace>PC_Catalog</RootNamespace>
+    <AssemblyName>PC-Catalog</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Battery.cs" />
-    <Compile Include="Laptop.cs" />
+    <Compile Include="Component.cs" />
+    <Compile Include="Computer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
